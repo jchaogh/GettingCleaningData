@@ -5,10 +5,6 @@ date: "7/21/2019"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Getting and Cleaning Data Course Project
 
 The course project transforms data in the UCI Human Activity Recognition (HAR) Dataset to generate a tidy table containing variable averages per subject and activity.  Specifically, the script does the following:
